@@ -2,7 +2,7 @@ package umeng_test
 
 import (
 	"testing"
-	"github.com/busyfree/go-umeng"
+	"github.com/tangzhenquan/go-umeng"
 )
 
 var data *umeng.Data
